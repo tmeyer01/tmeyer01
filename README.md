@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tmeyer01
-- 👀 I’m interested in ... learning how to code cause its sick
+- 👀 I’m interested in ... coding because you know ABC always be coding
 - 🌱 I’m currently learning ... JavaScript 
 - 💞️ I’m looking to collaborate on ... Whatever Ill bring the hype
 - 📫 How to reach me ... @BWebdev 
