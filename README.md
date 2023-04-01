@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Thomas</h1>
 <h3 align="center">A passionate full stack developer from Vancouver Canada</h3>
 
-- 🔭 I’m currently working on **JSblitz**
+- 🔭 I’m currently working on **Gravel and Pave**
 
-- 🌱 I’m currently learning **React**
+- 💬 Ask me about **Javascript, and how it changed my life**
 
-- 💬 Ask me about **Creating React Apps, Cycling, Ultra endurance races**
-
-- ⚡ Fun fact **Im very into cycling**
+- ⚡ Fun fact **You might not be able to tell by looking at me but im a kind of fast cyclist**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
