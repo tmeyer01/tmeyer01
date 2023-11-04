@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Thomas</h1>
 <h3 align="center">A passionate full stack developer from Vancouver Canada</h3>
 
-- 🔭 I’m currently working on **Gravel and Pave**
+- 🔭 I’m currently working on a portfolio page **Gravel and Pave**
 
-- 💬 Ask me about **Javascript, and how it changed my life**
-
-- ⚡ Fun fact **You might not be able to tell by looking at me but im a kind of fast cyclist**
+- ⚡ Fun fact **You might not be able to tell by looking at me but I'm a kind of fast cyclist**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
